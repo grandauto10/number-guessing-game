@@ -2,7 +2,8 @@
 
 A command-line based number guessing game built in Python where players try to guess a randomly selected number with limited attempts.
 
-**Project Repository:** https://github.com/grandauto10/number-guessing-game
+**Project Repository:** https://github.com/grandauto10/number-guessing-game  
+**Project Roadmap:** https://roadmap.sh/projects/number-guessing-game
 
 ## Features
 
