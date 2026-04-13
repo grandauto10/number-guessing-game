@@ -1,0 +1,11 @@
+# Number Guessing Game - Python Dependencies
+# This project uses only Python standard library, no external dependencies needed.
+# Just run: python src/main.py
+
+# If you want to install project in development mode, you can use:
+# pip install -e .
+
+# Optional: For development and testing
+# pytest>=6.0
+# black>=21.0
+# pylint>=2.0
